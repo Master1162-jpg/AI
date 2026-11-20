@@ -1,0 +1,8 @@
+{
+  "name": "Fiaura",
+  "description": "A professional crypto trading platform featuring AI-powered bots, internal transfers, and seamless automated QR payments for secure transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
